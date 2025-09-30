@@ -44,7 +44,7 @@ export default function page() {
             muted
             loop
             playsInline
-            src="/images/video/ipduck.webm"
+            src="/video/ipduck.webm"
           />
         </div>
 
